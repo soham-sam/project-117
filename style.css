@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 229, 196);
+
+}
+
+#score {
+
+    margin-left: 40px;
+    font-size: 35px;
+}
+
+#time {
+    font-size: 35px;
+    margin-right:20px;
+    float: right;
+   
+}
+p,span {
+    padding-top: 10px;
+    font-family: fantasy;
+    font-size: 25px;
+}
